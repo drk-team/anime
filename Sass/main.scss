@@ -1,0 +1,33 @@
+// Connecting files from folders 'Pages'
+
+@import 'Pages/';
+@import 'Pages/';
+@import 'Pages/';
+
+// Connecting files from folders 'Components'
+
+@import 'Components/buttons';
+@import 'Components/dropdown';
+@import 'Components/slider';
+
+// Connecting files from folders 'Layout'
+
+@import 'Layout/footer';
+@import 'Layout/header';
+@import 'Layout/navigation';
+
+// Connecting files from folders 'Pages'
+
+@import 'Pages/About-Us';
+@import 'Pages/Benefits-Advantages';
+@import 'Pages/Blog';
+@import 'Pages/Contact-Us';
+@import 'Pages/Giveaway-Entries';
+@import 'Pages/Home';
+@import 'Pages/Shop';
+@import 'Pages/Testimonials';
+
+// Connecting files from folders 'Themes'
+
+@import 'Themes/admin-theme';
+@import 'Themes/user-theme';
